@@ -218,7 +218,7 @@ input:focus {
   padding-top: 31px;
   padding-bottom: 130px;
   flex: 1;
-  background: url('../img/bg.png') no-repeat center top / auto;
+  background: url('../img/bg.png') no-repeat center bottom / auto;
   background-attachment: fixed;
 }
 .main_support {
